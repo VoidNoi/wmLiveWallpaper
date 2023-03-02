@@ -1,4 +1,4 @@
-# wmLiveWallpaper
+# Window Manager Dual Monitor Live Wallpaper
 
 Execute the script with the path to the video you want as wallpaper for both of your monitors
 ```
